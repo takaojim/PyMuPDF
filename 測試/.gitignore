@@ -1,0 +1,9 @@
+# 實際案件圖面與產出檔，不上傳 (public fork)
+*.pdf
+*.dxf
+*.dwg
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*_整理報告.txt
